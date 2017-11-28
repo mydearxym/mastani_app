@@ -5,7 +5,8 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}>Mastani App !!</Text>
+        <Text style={styles.text}>Mastani App !</Text>
+        <Text style={styles.text}>The full-stack framework!</Text>
       </View>
     )
   }
